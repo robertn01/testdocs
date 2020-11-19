@@ -11,6 +11,11 @@ Something added.
 
 Added this line from GH.
 
+<<<<<<< HEAD
 Imitate conflics.
 
 
+=======
+
+This is for conflic management..
+>>>>>>> be788417724e1b122de950621474177b8df335ed
