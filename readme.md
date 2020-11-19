@@ -10,3 +10,7 @@ Something added.
 ## This will be cool.
 
 Added this line from GH.
+
+Imitate conflics.
+
+
