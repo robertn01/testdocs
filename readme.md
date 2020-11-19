@@ -10,3 +10,6 @@ Something added.
 ## This will be cool.
 
 Added this line from GH.
+
+
+This is for conflic management..
